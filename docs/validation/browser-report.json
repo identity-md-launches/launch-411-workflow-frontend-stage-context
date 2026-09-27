@@ -1,0 +1,493 @@
+{
+  "base": "http://127.0.0.1:45795/preview/",
+  "widths": {
+    "desktop-1280": {
+      "liveReads": true,
+      "overflow": false,
+      "scrollWidth": 1280,
+      "innerWidth": 1280,
+      "h1": "24px",
+      "h2": "18px",
+      "body": "16px",
+      "input": "16px",
+      "statValue": "2,500,000",
+      "countdown": "23h 24m 22s",
+      "badge": [
+        "Cap active",
+        "Uniswap v4"
+      ],
+      "price": "1 ETH ≈ 50,000,000 BCAP",
+      "history": "P",
+      "minTargets": [
+        {
+          "tag": "A",
+          "text": "11794983",
+          "w": 77,
+          "h": 20
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "A",
+          "text": "0x719e71f67c46c736885e412b4197",
+          "w": 310,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0x3d13515ce40b463d88a3149371d5",
+          "w": 318,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0xe03a1074c86cfedd5c142c4f04f1",
+          "w": 302,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0x61b3f2011a92d183c7dbadbda940",
+          "w": 304,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0xe1dd9c3fa50edb962e442f60dfbc",
+          "w": 299,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0x9B6b46e2c869aa39918Db7f52f55",
+          "w": 309,
+          "h": 20
+        }
+      ],
+      "consoleIssues": [],
+      "failedRequests": []
+    },
+    "intermediate-900": {
+      "liveReads": true,
+      "overflow": false,
+      "scrollWidth": 900,
+      "innerWidth": 900,
+      "h1": "24px",
+      "h2": "18px",
+      "body": "16px",
+      "input": "16px",
+      "statValue": "2,500,000",
+      "countdown": "23h 24m 10s",
+      "badge": [
+        "Cap active",
+        "Uniswap v4"
+      ],
+      "price": "1 ETH ≈ 50,000,000 BCAP",
+      "history": "P",
+      "minTargets": [
+        {
+          "tag": "A",
+          "text": "11794984",
+          "w": 77,
+          "h": 20
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "A",
+          "text": "0x719e71f67c46c736885e412b4197",
+          "w": 310,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0x3d13515ce40b463d88a3149371d5",
+          "w": 318,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0xe03a1074c86cfedd5c142c4f04f1",
+          "w": 302,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0x61b3f2011a92d183c7dbadbda940",
+          "w": 304,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0xe1dd9c3fa50edb962e442f60dfbc",
+          "w": 299,
+          "h": 20
+        },
+        {
+          "tag": "A",
+          "text": "0x9B6b46e2c869aa39918Db7f52f55",
+          "w": 309,
+          "h": 20
+        }
+      ],
+      "consoleIssues": [],
+      "failedRequests": []
+    },
+    "mobile-375": {
+      "liveReads": true,
+      "overflow": false,
+      "scrollWidth": 375,
+      "innerWidth": 375,
+      "h1": "24px",
+      "h2": "18px",
+      "body": "16px",
+      "input": "16px",
+      "statValue": "2,500,000",
+      "countdown": "23h 24m 10s",
+      "badge": [
+        "Cap active",
+        "Uniswap v4"
+      ],
+      "price": "1 ETH ≈ 50,000,000 BCAP",
+      "history": "P",
+      "minTargets": [
+        {
+          "tag": "A",
+          "text": "11794984",
+          "w": 77,
+          "h": 20
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "w": 13,
+          "h": 13
+        }
+      ],
+      "consoleIssues": [],
+      "failedRequests": []
+    },
+    "mobile-320": {
+      "liveReads": true,
+      "overflow": false,
+      "scrollWidth": 320,
+      "innerWidth": 320,
+      "h1": "24px",
+      "h2": "18px",
+      "body": "16px",
+      "input": "16px",
+      "statValue": "2,500,000",
+      "countdown": "23h 24m 10s",
+      "badge": [
+        "Cap active",
+        "Uniswap v4"
+      ],
+      "price": "1 ETH ≈ 50,000,000 BCAP",
+      "history": "P",
+      "minTargets": [
+        {
+          "tag": "A",
+          "text": "11794984",
+          "w": 77,
+          "h": 20
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "w": 13,
+          "h": 13
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "w": 13,
+          "h": 13
+        }
+      ],
+      "consoleIssues": [],
+      "failedRequests": []
+    }
+  },
+  "keyboard": [
+    {
+      "tag": "A",
+      "type": null,
+      "name": "Skip to content",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "11794984",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "",
+      "focusVisible": true,
+      "outline": "none 3px rgb(0, 0, 0)",
+      "chipOutline": "solid 2px rgb(43, 95, 217)",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "_r_0_",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "_r_1_",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0x719e71f67c46c736885e412b41973edf445215",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0x3d13515ce40b463d88a3149371d54133165a10",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0xe03a1074c86cfedd5c142c4f04f1a1536e2035",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0x61b3f2011a92d183c7dbadbda940a7555ccf92",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0xe1dd9c3fa50edb962e442f60dfbc432e24537e",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0x9B6b46e2c869aa39918Db7f52f5557FE577B6e",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "BODY"
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "Skip to content",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "11794984",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "",
+      "focusVisible": true,
+      "outline": "none 3px rgb(0, 0, 0)",
+      "chipOutline": "solid 2px rgb(43, 95, 217)",
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "_r_0_",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "_r_1_",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0x719e71f67c46c736885e412b41973edf445215",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0x3d13515ce40b463d88a3149371d54133165a10",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0xe03a1074c86cfedd5c142c4f04f1a1536e2035",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0x61b3f2011a92d183c7dbadbda940a7555ccf92",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    },
+    {
+      "tag": "A",
+      "type": null,
+      "name": "0xe1dd9c3fa50edb962e442f60dfbc432e24537e",
+      "focusVisible": true,
+      "outline": "solid 2px rgb(43, 95, 217)",
+      "chipOutline": null,
+      "disabled": false
+    }
+  ],
+  "interactions": {
+    "quoteSmall": "Expected output\n495,993.9357 BCAP\nMinimum after slippage\n491,033.9964 BCAP\nRate\n1 ETH ≈ 49,599,393.57 BCAP\nShare of block cap\n19.8%",
+    "actionsSmall": "Buy BCAP\n\nConnect a wallet to swap.",
+    "quoteOverCap": "Over the cap: this buy would bring the block’s total to 46,731,075.24 BCAP, above the 2,500,000 BCAP per-block cap, so the hook reverts it. Enter a smaller amount.",
+    "actionsOverCap": "Buy BCAP\n\nConnect a wallet to swap.",
+    "invalidAmount": {
+      "ariaInvalid": "true",
+      "help": "Enter a positive number with at most 18 decimals."
+    },
+    "quoteSell": "No liquidity is available in this direction at the current price, so none of this amount can be filled. Try the other direction or a later time.",
+    "actionsSell": "Sell BCAP\n\nConnect a wallet to swap.",
+    "consoleIssues": []
+  },
+  "wallet": {
+    "wrongChainHint": "The wallet is on chain 1. This page needs Sepolia (11155111).",
+    "actionHintWrongChain": "Switch the wallet to Sepolia to swap.",
+    "requests": [
+      "eth_requestAccounts",
+      "eth_chainId",
+      "wallet_switchEthereumChain",
+      "wallet_addEthereumChain",
+      "eth_chainId",
+      "wallet_switchEthereumChain",
+      "eth_chainId"
+    ],
+    "addChainParams": {
+      "chainId": "0xaa36a7",
+      "chainName": "Sepolia",
+      "rpcUrls": [
+        "https://ethereum-sepolia-rpc.publicnode.com",
+        "https://rpc.sepolia.ethpandaops.io",
+        "https://sepolia.rpc.sentio.xyz"
+      ],
+      "nativeCurrency": {
+        "name": "Sepolia Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "blockExplorerUrls": [
+        "https://sepolia.etherscan.io"
+      ]
+    },
+    "balanceLine": "Balance 0.9099 ETH",
+    "buyEnabled": true,
+    "actionHint": "Simulates first, then asks the wallet to sign. Minimum output is checked in the simulation; the test router cannot enforce it on chain.",
+    "txStatus": "Swap not completed: Request rejected in the wallet. Nothing was sent.",
+    "sendTransactionParams": {
+      "data": "0x2229d0b40000000000000000000000000000000000000000000000000000000000000000000000000000000000000000719e71f67c46c736885e412b41973edf4452150d0000000000000000000000000000000000000000000000000000000000000bb8000000000000000000000000000000000000000000000000000000000000003c0000000000000000000000003d13515ce40b463d88a3149371d54133165a10400000000000000000000000000000000000000000000000000000000000000001fffffffffffffffffffffffffffffffffffffffffffffffffffc72815b39800000000000000000000000000000000000000000000000000000000001000276a40000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001600000000000000000000000000000000000000000000000000000000000000000",
+      "from": "0x09ec38170e94532eddb57c69dfc4f1fdcd0d4a60",
+      "to": "0x9B6b46e2c869aa39918Db7f52f5557FE577B6eEe",
+      "value": "0x38d7ea4c68000"
+    },
+    "afterDisconnect": true,
+    "consoleIssues": []
+  },
+  "reducedMotion": {
+    "buttonTransition": "0s",
+    "chipTransition": "0s",
+    "noPreferenceButtonTransition": "0.1s"
+  },
+  "problems": [],
+  "skipLinkTarget": "#main / main"
+}
